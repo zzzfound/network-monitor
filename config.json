@@ -2,7 +2,7 @@
   "interval": 5,
   "targets": [
     { "host": "baidu.com", "ports": [80, 443] },
-    { "host": "114.114.114.114", "ports": [53] },
+    { "host": "192.168.1.1", "ports": [] },
     { "host": "127.0.0.1", "ports": [] }
   ]
 }
