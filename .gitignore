@@ -1,0 +1,6 @@
+# 运行日志（每次运行都会变化，不应提交）
+monitor.log
+
+# Python 缓存
+__pycache__/
+*.pyc
